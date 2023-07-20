@@ -1,4 +1,6 @@
-#function called fibonacci_sequence that takes a number n as input and returns a list of the first n
+#!/usr/bin/env python3
+
+"""function called fibonacci_sequence that takes a number n as input and returns a list of the first n"""
 
 def fibonacci_sequence(n):
     if n == 0:

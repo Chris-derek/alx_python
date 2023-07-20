@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 """function called validate_password that takes a password as input and performs the following checks.
 
 The password must contain at least one uppercase letter.

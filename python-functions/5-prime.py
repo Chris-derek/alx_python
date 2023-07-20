@@ -1,4 +1,6 @@
-#function called is_prime that takes a number as input and returns True if the number is prime, and False otherwise.
+#!/usr/bin/env python3
+
+"""function called is_prime that takes a number as input and returns True if the number is prime, and False otherwise."""
 
 def is_prime(n):
     if n <= 1:
