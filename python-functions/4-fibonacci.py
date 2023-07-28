@@ -15,7 +15,3 @@ def fibonacci_sequence(n):
             fib.append(fib[i-1] + fib[i-2])
         return fib
     
-print(fibonacci_sequence(6))
-print(fibonacci_sequence(1))
-print(fibonacci_sequence(0))
-print(fibonacci_sequence(20))

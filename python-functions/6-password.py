@@ -1,11 +1,5 @@
 #!/usr/bin/env python3
 
-"""function called validate_password that takes a password as input and performs the following checks.
-
-The password must contain at least one uppercase letter.
-The password must contain at least one lowercase letter.
-The password should be at least 8 characters long.
-The password should not contain spaces."""
 
 def validate_password(password):
     if len(password) < 8:
