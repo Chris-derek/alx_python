@@ -1,11 +1,4 @@
-#!/usr/bin/env python3
-
-"""function called reverse_string that takes a string as input and returns the reverse of that string"""
-
+#!/usr/bin/python3
 def reverse_string(string):
-    return string[::-1]
-
-print(reverse_string("Hello"))
-print(reverse_string(""))
-print(reverse_string("madam"))
-print(reverse_string("Hello, World!"))
+    reverse_string = string[::-1]
+    return reverse_string
